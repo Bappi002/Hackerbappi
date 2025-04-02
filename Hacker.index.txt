@@ -1,0 +1,42 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faraz Bappi</title>
+    <style>
+        body {
+            background-color: black;
+            color: #00ff00; /* হ্যাকার স্টাইল গ্রিন টেক্সট */
+            font-family: 'Courier New', monospace;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        h1 {
+            font-size: 24px;
+            text-transform: uppercase;
+            text-shadow: 0 0 10px #00ff00;
+        }
+
+        h2 {
+            font-size: 28px;
+            font-weight: bold;
+            color: #ff0000; /* লাল রঙ Faraz Bappi-এর জন্য */
+            text-shadow: 0 0 15px red;
+        }
+    </style>
+</head>
+<body>
+    <h1>বাপ্পি কে দেখবা কিন্তু অন্য রুপে, কথা ডা মাথায় রাখিস। <br>  
+        বাপ্পি জীবনে যা যা করছে তোর মত বালছাল এর সপ্ন এগুলি।
+    </h1>
+    <h2>JusT MinD MyH NamE <br> Faraz Bappi</h2>
+</body>
+</html>
+```
